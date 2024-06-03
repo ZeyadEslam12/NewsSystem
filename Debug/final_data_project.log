@@ -1,0 +1,20 @@
+﻿  admin.cpp
+C:\Users\DELL\source\repos\final_data_project\final_data_project\admin.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+C:\Users\DELL\source\repos\final_data_project\final_data_project\main.cpp(39,11): warning C4101: 'id3': unreferenced local variable
+  News.cpp
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(22,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(178,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(232,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(280,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(350,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(371,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(422,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(437,23): warning C4018: '>': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(443,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DELL\source\repos\final_data_project\final_data_project\News.cpp(458,23): warning C4018: '<': signed/unsigned mismatch
+  user.cpp
+C:\Users\DELL\source\repos\final_data_project\final_data_project\user.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  final_data_project.vcxproj -> C:\Users\DELL\source\repos\final_data_project\Debug\final_data_project.exe

@@ -1,0 +1,4 @@
+﻿  News.cpp
+D:\real final project\test5555555555\final_data_project\final_data_project\News.cpp(51,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\real final project\test5555555555\final_data_project\final_data_project\News.cpp(64,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  final_data_project.vcxproj -> D:\real final project\test5555555555\final_data_project\final_data_project\x64\Debug\final_data_project.exe
